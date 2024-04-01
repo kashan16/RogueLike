@@ -23,7 +23,7 @@ Welcome to the Rust Roguelike project! This is a text-based roguelike game writt
 
 ### Getting Started:
 
-1. Clone the repository: `git clone https://github.com/kashan16/RogueLike.git
+1. Clone the repository: `git clone https://github.com/kashan16/RogueLike.git`
 2. Navigate to the project directory: `cd RogueLike`
 3. Build the project: `cargo build`
 4. Run the game: `cargo run`
